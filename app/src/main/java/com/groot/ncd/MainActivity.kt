@@ -1,4 +1,4 @@
-package com.groot.ncd
+package com.groot54.ncd
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

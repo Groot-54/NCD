@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.groot.ncd"
+    namespace = "com.groot54.ncd"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -12,7 +12,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.groot.ncd"
+        applicationId = "com.groot54.ncd"
         minSdk = 29
         targetSdk = 36
         versionCode = 1
